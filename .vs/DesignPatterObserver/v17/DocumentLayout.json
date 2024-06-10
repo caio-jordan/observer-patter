@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repository\\DesignPatterObserver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D15BADFA-1357-4C80-8C91-8CEDDD9A3BD6}|DesignPatterObserver.csproj|c:\\repository\\designpatterobserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15BADFA-1357-4C80-8C91-8CEDDD9A3BD6}|DesignPatterObserver.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15BADFA-1357-4C80-8C91-8CEDDD9A3BD6}|DesignPatterObserver.csproj|c:\\repository\\designpatterobserver\\domain\\feed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15BADFA-1357-4C80-8C91-8CEDDD9A3BD6}|DesignPatterObserver.csproj|solutionrelative:domain\\feed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15BADFA-1357-4C80-8C91-8CEDDD9A3BD6}|DesignPatterObserver.csproj|c:\\repository\\designpatterobserver\\interface\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15BADFA-1357-4C80-8C91-8CEDDD9A3BD6}|DesignPatterObserver.csproj|solutionrelative:interface\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15BADFA-1357-4C80-8C91-8CEDDD9A3BD6}|DesignPatterObserver.csproj|c:\\repository\\designpatterobserver\\domain\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15BADFA-1357-4C80-8C91-8CEDDD9A3BD6}|DesignPatterObserver.csproj|solutionrelative:domain\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15BADFA-1357-4C80-8C91-8CEDDD9A3BD6}|DesignPatterObserver.csproj|c:\\repository\\designpatterobserver\\domain\\videonotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15BADFA-1357-4C80-8C91-8CEDDD9A3BD6}|DesignPatterObserver.csproj|solutionrelative:domain\\videonotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15BADFA-1357-4C80-8C91-8CEDDD9A3BD6}|DesignPatterObserver.csproj|c:\\repository\\designpatterobserver\\domain\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15BADFA-1357-4C80-8C91-8CEDDD9A3BD6}|DesignPatterObserver.csproj|solutionrelative:domain\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15BADFA-1357-4C80-8C91-8CEDDD9A3BD6}|DesignPatterObserver.csproj|c:\\repository\\designpatterobserver\\interface\\isubject .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15BADFA-1357-4C80-8C91-8CEDDD9A3BD6}|DesignPatterObserver.csproj|solutionrelative:interface\\isubject .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Feed.cs",
+              "DocumentMoniker": "C:\\Repository\\DesignPatterObserver\\Domain\\Feed.cs",
+              "RelativeDocumentMoniker": "Domain\\Feed.cs",
+              "ToolTip": "C:\\Repository\\DesignPatterObserver\\Domain\\Feed.cs",
+              "RelativeToolTip": "Domain\\Feed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T23:15:40.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideoNotification.cs",
+              "DocumentMoniker": "C:\\Repository\\DesignPatterObserver\\Domain\\VideoNotification.cs",
+              "RelativeDocumentMoniker": "Domain\\VideoNotification.cs",
+              "ToolTip": "C:\\Repository\\DesignPatterObserver\\Domain\\VideoNotification.cs",
+              "RelativeToolTip": "Domain\\VideoNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T23:23:14.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Repository\\DesignPatterObserver\\Domain\\Video.cs",
+              "RelativeDocumentMoniker": "Domain\\Video.cs",
+              "ToolTip": "C:\\Repository\\DesignPatterObserver\\Domain\\Video.cs",
+              "RelativeToolTip": "Domain\\Video.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T23:05:24.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Repository\\DesignPatterObserver\\Interface\\IObserver.cs",
+              "RelativeDocumentMoniker": "Interface\\IObserver.cs",
+              "ToolTip": "C:\\Repository\\DesignPatterObserver\\Interface\\IObserver.cs",
+              "RelativeToolTip": "Interface\\IObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:58:35.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "C:\\Repository\\DesignPatterObserver\\Domain\\Subscriber.cs",
+              "RelativeDocumentMoniker": "Domain\\Subscriber.cs",
+              "ToolTip": "C:\\Repository\\DesignPatterObserver\\Domain\\Subscriber.cs",
+              "RelativeToolTip": "Domain\\Subscriber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:57:38.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISubject .cs",
+              "DocumentMoniker": "C:\\Repository\\DesignPatterObserver\\Interface\\ISubject .cs",
+              "RelativeDocumentMoniker": "Interface\\ISubject .cs",
+              "ToolTip": "C:\\Repository\\DesignPatterObserver\\Interface\\ISubject .cs",
+              "RelativeToolTip": "Interface\\ISubject .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:52:42.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repository\\DesignPatterObserver\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Repository\\DesignPatterObserver\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:52:23.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

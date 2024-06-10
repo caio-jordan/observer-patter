@@ -1,0 +1,14 @@
+C:\Repository\DesignPatterObserver\bin\Debug\net8.0\DesignPatterObserver.exe
+C:\Repository\DesignPatterObserver\bin\Debug\net8.0\DesignPatterObserver.deps.json
+C:\Repository\DesignPatterObserver\bin\Debug\net8.0\DesignPatterObserver.runtimeconfig.json
+C:\Repository\DesignPatterObserver\bin\Debug\net8.0\DesignPatterObserver.dll
+C:\Repository\DesignPatterObserver\bin\Debug\net8.0\DesignPatterObserver.pdb
+C:\Repository\DesignPatterObserver\obj\Debug\net8.0\DesignPatterObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\DesignPatterObserver\obj\Debug\net8.0\DesignPatterObserver.AssemblyInfoInputs.cache
+C:\Repository\DesignPatterObserver\obj\Debug\net8.0\DesignPatterObserver.AssemblyInfo.cs
+C:\Repository\DesignPatterObserver\obj\Debug\net8.0\DesignPatterObserver.csproj.CoreCompileInputs.cache
+C:\Repository\DesignPatterObserver\obj\Debug\net8.0\DesignPatterObserver.dll
+C:\Repository\DesignPatterObserver\obj\Debug\net8.0\refint\DesignPatterObserver.dll
+C:\Repository\DesignPatterObserver\obj\Debug\net8.0\DesignPatterObserver.pdb
+C:\Repository\DesignPatterObserver\obj\Debug\net8.0\DesignPatterObserver.genruntimeconfig.cache
+C:\Repository\DesignPatterObserver\obj\Debug\net8.0\ref\DesignPatterObserver.dll
